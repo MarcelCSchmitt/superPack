@@ -1,0 +1,12 @@
+Package: superPack
+Title: Being Cool
+Version: 0.0-1
+Imports: stats
+Depends: R (>= 3.5.0)
+Authors@R: 
+    person("Marcel", "Schmitt" , email= "marcel.schmitt@uni-landau.de", role = c("aut", "cre"))
+Description: It works well.
+License: GPL (>= 2)
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.2
